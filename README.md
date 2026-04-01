@@ -3,9 +3,9 @@
 I am a Data Engineer and Computer engineering student from 🇧🇷Curitiba, Brazil currently living in 🇮🇹Dalmine, Italy
 
 
-<table width="1200px" cellspacing="0" cellpadding="0">
+<table width="1500px" cellspacing="0" cellpadding="0">
 <tr>
-<td width="600px" valign="top">
+<td width="900px" valign="top">
 
 **Stacks**
 
@@ -31,6 +31,12 @@ Data: <img src="https://img.shields.io/static/v1?message=dbt&logo=dbt&label=&col
 <img src="https://img.shields.io/static/v1?message=Kafka&logo=apachekafka&label=&color=231F20&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kafka logo" />
   <br>
 Orchestration: <img src="https://img.shields.io/static/v1?message=Airflow&logo=apacheairflow&label=&color=017CEE&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="airflow logo" />
+<img src="https://img.shields.io/static/v1?message=Dagster&logo=dagster&label=&color=252421&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dagster logo" />
+<br>
+Documentation: <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="notion logo" />
+<img src="https://img.shields.io/static/v1?message=Confluence&logo=confluence&label=&color=172B4D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="confluence logo" />
+<img src="https://img.shields.io/static/v1?message=Jira&logo=jira&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jira logo" />
+<img src="https://img.shields.io/static/v1?message=Obsidian&logo=obsidian&label=&color=483699&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="obsidian logo" />
 <br>
 Others: <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="git logo" />
 <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linux logo" />
