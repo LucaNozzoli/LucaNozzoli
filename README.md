@@ -7,7 +7,7 @@ I am a Data Engineer and Computer engineering student from 🇧🇷Curitiba, Bra
 <tr>
 <td width="900px" valign="top">
 
-**Stacks**
+## ⚙ **Stacks**
 
 <div align="left">
 Languages: <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="python logo" />
@@ -44,7 +44,7 @@ Others: <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&c
 </td>
 <td width="600px" valign="top">
 
-**Stats**
+## 🔥**Stats**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LucaNozzoli&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </td>
