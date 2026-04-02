@@ -19,6 +19,9 @@ I am a Data Engineer and Computer Engineering student from 🇧🇷 Curitiba, Br
 - [ ] 🔹 **Nvim Configurations** – Start initial setup for nvim and initial plugins   
 - [ ] 🔹 **Tmux** – Start using tmux and setup initial settings
 - [ ] 🔹 **Terminal News** – Install terminal UI to read RSS feeds (read news on terminal)
+- [ ] 🔹 **Medium page** – Retake medium page and write article about the studies
+- [ ] 🔹 **SVM optimization** – Add university tutor session notebook
+- [ ] 🔹 **Regression models** – Add university work on regression
 
 </td>
 
@@ -32,6 +35,8 @@ I am a Data Engineer and Computer Engineering student from 🇧🇷 Curitiba, Br
 
 <div align="left">
 <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" /> 
+<img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge" height="25" /> 
+<img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="25" /> 
 <img src="https://img.shields.io/static/v1?message=SQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="25" /> 
 <img src="https://img.shields.io/static/v1?message=Bash&logo=gnubash&label=&color=4EAA25&logoColor=white&labelColor=&style=for-the-badge" height="25" />  
 <br>
