@@ -1,10 +1,12 @@
 ## 🤓 Hi there, I'm Luca!
-
-I am a Data Engineer and Computer engineering student from 🇧🇷Curitiba, Brazil currently living in 🇮🇹Dalmine, Italy
-
+I am a Data Engineer and Computer engineering student from 🇧🇷 Curitiba, Brazil currently living in 🇮🇹 Dalmine, Italy
+## 🌍 Beyond Code
+✈️ Passionate about travel & new cultures.  **Countries visited:**  🇧🇷 🇮🇹 🇫🇷 🇩🇪 🇦🇹 🇸🇪 🇩🇰 🇳🇴 🇵🇱 🇻🇦
 
 <table width="100%" cellspacing="0" cellpadding="0">
+
 <tr>
+
 <td width="50%" valign="top">
   
 ## 🚧 WIP Projects
