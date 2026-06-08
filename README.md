@@ -19,9 +19,9 @@ I am a Data Engineer and Computer Engineering student from 🇧🇷 Curitiba, Br
 - [ ] 🔹 **Nvim Configurations** – Start initial setup for nvim and initial plugins   
 - [ ] 🔹 **Tmux** – Start using tmux and setup initial settings
 - [ ] 🔹 **Terminal News** – Install terminal UI to read RSS feeds (read news on terminal)
-- [ ] 🔹 **Medium page** – Retake medium page and write article about the studies
+- [ ] 🔹 **Medium page** – Retake medium page and write articles about the studies (on medium or blog)
 - [ ] 🔹 **SVM optimization** – Add university tutor session notebook
-- [ ] 🔹 **Regression models** – Add university work on regression
+- [x] 🔹 **Regression models** – Add university work on regression
 
 </td>
 
