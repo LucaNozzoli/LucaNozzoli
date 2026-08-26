@@ -20,7 +20,7 @@ I am a Data Engineer and Computer Engineering student from 🇧🇷 Curitiba, Br
 - [ ] 🔹 **Tmux** – Start using tmux and setup initial settings
 - [ ] 🔹 **Terminal News** – Install terminal UI to read RSS feeds (read news on terminal)
 - [ ] 🔹 **Medium page** – Retake medium page and write articles about the studies (on medium or blog)
-- [ ] 🔹 **SVM optimization** – Add university tutor session notebook
+- [x] 🔹 **SVM optimization** – Add university tutor session notebook
 - [x] 🔹 **Regression models** – Add university work on regression
 
 </td>
